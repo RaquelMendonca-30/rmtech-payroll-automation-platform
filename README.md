@@ -1,2 +1,5 @@
-# rmtech-payroll-automation-platform
-Sistema inteligente em Python para leitura de planilhas e geração automática de arquivos compatíveis com Alterdata.
+# RMtech Payroll Automation Platform
+
+![RMtech Dashboard](rmtech-dashboard.png)
+
+## 🚀 Sobre o projeto
